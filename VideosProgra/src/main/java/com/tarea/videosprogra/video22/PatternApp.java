@@ -16,7 +16,7 @@ public class PatternApp {
 
 		
 		for(int i = 0; i < 10000;i++){
-			String[] arreglo = p.split("Nacho;Banken;Diego;Mati");	
+			String[] arreglo = p.split("Pato;Leo;Juan;Dewey");	
 		}
 		
 		long fin = System.currentTimeMillis();
